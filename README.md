@@ -1,0 +1,1 @@
+The live fire and smoke classifier is developed using Pytorch and Opencv that are trained using the 3 Channels images of fire, smoke and neutral environments. Achieving 75% accuracy, the model accurately identifies these elements in various scenes
